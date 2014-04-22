@@ -1,4 +1,4 @@
 GettingStarted
 ==============
 
-My first rep as part of the Data Science Tracl
+My first repo as part of the Data Science Track
